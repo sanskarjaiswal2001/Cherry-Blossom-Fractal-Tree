@@ -43,7 +43,7 @@ function draw()
     for (var i =0; i< tree.length; i++)
     {
         tree[i].show();
-        //tree[i].jitter();
+        tree[i].jitter();
     }
     for (var i =0; i< leaves.length; i++)
     {

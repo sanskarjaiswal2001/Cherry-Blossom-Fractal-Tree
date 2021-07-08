@@ -4,7 +4,7 @@ A modification to the [Fractal-Tree](https://github.com/sanskarjaiswal2001/Fract
 
 Click to make the tree grow and cherry blossoms fall.
 
-**Try it out here :** https://sanskarjaiswal2001.github.io/Cherry-Blossom-Fractal-Tree/
+**Try it out here :** [Cherry Blossom fractal tree](https://sanskarjaiswal2001.github.io/Cherry-Blossom-Fractal-Tree/)
 
 **Screenshot :**
 
